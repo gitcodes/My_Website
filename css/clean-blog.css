@@ -18,7 +18,7 @@ p {
   margin: 30px 0;
 }
 p a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 h1 { color:#46A7A2;font-family: sans-serif; font-weight: 800;font-size:40px}
 h2,
@@ -31,7 +31,6 @@ h6 {
 }
 a {
   color: #333333;
-  text-decoration: none !important;
 }
 a:hover,
 a:focus {
